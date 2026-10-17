@@ -1,0 +1,8 @@
+sub1 =int(input("marks 1: "))
+sub2=int(input ("marks 2: "))
+totalmarks =sub1+sub2
+averaged =totalmarks/2
+averagefd =totalmarks//2
+print ("total marks",totalmarks)
+print("average divison",averaged)
+print("average floor divison",averagefd)
