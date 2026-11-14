@@ -125,6 +125,6 @@ D. Nothing
 
 ## Score
 
-**Your score:** __7__ / 10
+**Your score:** __7__ / **10**
 
 **Remark** : Need Revision & Focus in the class
