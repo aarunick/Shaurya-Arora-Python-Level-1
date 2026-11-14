@@ -100,9 +100,9 @@ D. Nothing
 
 ### 9. Which logical operator returns `True` only when both conditions are true?
 
-A. `or`
+A. `or` ❌
 B. `not`
-C. `and` 
+C. `and`
 D. `if`
 
 ### 10. What is the output of this code?
@@ -117,7 +117,7 @@ else:
 ```
 
 A. `Take an umbrella`
-B. `No umbrella needed`
+B. `No umbrella needed` ✅
 C. `False`
 D. Nothing
 
@@ -125,4 +125,6 @@ D. Nothing
 
 ## Score
 
-**Your score:** ______ / 10
+**Your score:** __7__ / 10
+
+**Remark** : Need Revision & Focus in the class
