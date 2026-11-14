@@ -30,7 +30,7 @@ By completing this homework, you should be able to:
 ### Q1. Which statement best describes a Python Set?
 
 A. An ordered collection that allows duplicates
-B. An unordered collection of unique elements
+B. An unordered collection of unique elements 
 C. A collection of key-value pairs
 D. A collection that supports indexing
 
@@ -154,8 +154,7 @@ Sets.
 
 Write a Python program that:
 
-1. Creates a Set named `subjects` containing `"Python"`, `"Java"`, and
-   `"JavaScript"`.
+1. Creates a Set named `subjects```containing`"Python"`, `"Java"`, and `"JavaScript"`.
 2. Adds `"C++"` using the `add()` method.
 3. Removes `"Java"` using the `remove()` method.
 4. Prints the updated Set.
