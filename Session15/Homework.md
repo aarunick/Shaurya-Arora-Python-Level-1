@@ -1,4 +1,3 @@
-
 # Python Conditional Statements – Homework
 
 **Level:** Easy
@@ -155,9 +154,9 @@ D. No output
 | 9        |        |
 | 10       |        |
 
-**Total Marks:** ____ / 10
+**Total Marks:** 10 / 10
 
-**Teacher's Feedback:**
+**Teacher's Feedback: **  Excellent --> You have to take minimal help try first on own then you can take help of parents.
 
 ---
 
